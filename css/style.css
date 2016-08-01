@@ -1,0 +1,621 @@
+.xd-Big-box {
+  width: 100%;
+  background: #f6f6f6;
+  height: 35px;
+  line-height: 35px;
+}
+.xd-Big-box div {
+  width: 1080px;
+  margin: 0 auto;
+}
+.xd-Big-box div p {
+  font-size: 12px;
+  color: #666666;
+}
+.xd-Big-box div p a {
+  float: right;
+  color: #d64442;
+  margin-left: 5px;
+}
+.xd-Big-box div p a:hover {
+  text-decoration: underline;
+}
+.xd-Navigation {
+  width: 100%;
+}
+.xd-Navigation .xd-logo {
+  height: 60px;
+  width: 1080px;
+  margin: 0 auto;
+  padding: 35px 0 30px;
+}
+.xd-Navigation .xd-logo img {
+  float: left;
+}
+.xd-Navigation .xd-logo div {
+  float: right;
+}
+.xd-Navigation .xd-logo div input {
+  float: left;
+  width: 570px;
+  border: 1px solid #d64442;
+  height: 41px;
+  line-height: 41px;
+  margin-top: 10px;
+  font-size: 12px;
+  padding: 0 15px;
+}
+.xd-Navigation .xd-logo div .xd-logo-a {
+  width: 80px;
+  margin-top: 10px;
+  height: 43px;
+  line-height: 43px;
+  background: #d64442;
+  color: #fff;
+  text-align: center;
+  float: left;
+  font-size: 16px;
+  margin-left: 0;
+}
+.xd-Navigation .xd-logo div a {
+  color: #d64442;
+  font-size: 12px;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+.xd-Navigation ul {
+  width: 1080px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.xd-Navigation ul li {
+  float: left;
+  width: 215px;
+  height: 43px;
+  line-height: 43px;
+  position: relative;
+}
+.xd-Navigation ul li i {
+  display: inline-block;
+  position: absolute;
+  right: -4px;
+  color: #ccc;
+}
+.xd-Navigation ul li a {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+.xd-Navigation ul li a:hover {
+  background: #d64442;
+  color: #fff;
+}
+.xd-Navigation ul li a:hover i {
+  display: none;
+}
+.xd-Navigation ul .bg a {
+  background: #d64442;
+  color: #fff;
+}
+.xd-Navigation ul .bg i {
+  display: none;
+}
+.middle-img ul li img {
+  width: 100%;
+}
+.middle-img .Top-button i {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  border-right: none;
+  border-bottom: none;
+  transform: rotate(-45deg);
+}
+.middle-img .Down-button i {
+  position: absolute;
+  top: 20px;
+  left: 5px;
+  border-right: none;
+  border-bottom: none;
+  transform: rotate(138deg);
+}
+.middle-img .Down-button {
+  position: absolute;
+  left: 96%;
+}
+.middle-img div {
+  width: 50px;
+  height: 80px;
+  position: absolute;
+  top: 175px;
+  left: 20px;
+  background-color: #000;
+  filter: alpha(opacity=20);
+  opacity: 0.2;
+  cursor: pointer;
+}
+.middle-img {
+  position: relative;
+}
+.middle-img div i {
+  margin: 8px;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #fff;
+}
+.xd-Big-box-a {
+  margin-bottom: 30px;
+  overflow: hidden;
+  width: 100%;
+  background: #f6f6f6;
+  height: 50px;
+  line-height: 50px;
+}
+.xd-Big-box-a .content_a {
+  width: 1080px;
+  margin: 0 auto;
+}
+.xd-Big-box-a .content_a_i {
+  color: #d64442;
+  float: left;
+  margin-right: 5px;
+}
+.xd-Big-box-a .span {
+  float: left;
+  font-size: 12px;
+  color: #d64442;
+  line-height: 53px;
+}
+.xd-Big-box-a .div-box {
+  float: left;
+}
+.xd-Big-box-a .div-box a {
+  margin-left: 20px;
+  font-size: 12px;
+  color: #666;
+}
+.xd-Big-box-a .div-box a:hover {
+  color: #d64442;
+  text-decoration: underline;
+}
+.xd-Big-box-a .div-box span {
+  font-size: 12px;
+  margin-left: 30px;
+  color: #999999;
+}
+.xd-Big-box-a em {
+  margin-top: 10px;
+  display: block;
+  float: right;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #CCCCCC;
+  background: url("../images/shang-5.png") no-repeat;
+  background-position: 50% 50%;
+  background-color: #fff;
+  color: #666;
+  cursor: pointer;
+  position: relative;
+  top: 5px;
+}
+.xd-Big-box-a .em1 {
+  background: url("../images/shang-4.png") no-repeat;
+  background-position: 50% 50%;
+  background-color: #fff;
+  position: relative;
+}
+.xd-Big-box-a .em2 {
+  border-left: none;
+}
+.xd-list {
+  width: 1080px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+}
+.xd-list h3 {
+  overflow: hidden;
+  height: 35px;
+  line-height: 35px;
+  background: #f6f6f6;
+  color: #d64442;
+  font-size: 18px;
+  padding: 0 30px;
+}
+.xd-list h3 div {
+  float: right;
+}
+.xd-list h3 div .xd-span-a {
+  float: left;
+  display: block;
+  margin-top: 3px;
+}
+.xd-list h3 div em {
+  display: block;
+  float: left;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #CCCCCC;
+  background: url("../images/shang-5.png") no-repeat;
+  background-position: 50% 50%;
+  background-color: #fff;
+  color: #666;
+  cursor: pointer;
+  position: relative;
+  top: 5px;
+}
+.xd-list h3 div .em1 {
+  background: url("../images/shang-4.png") no-repeat;
+  background-position: 50% 50%;
+  background-color: #fff;
+  border-right: none;
+}
+.xd-list h3 div a {
+  margin-left: 15px;
+  color: #d64442;
+  font-size: 12px;
+  font-weight: 100;
+}
+.xd-list-box {
+  padding: 0 30px;
+  overflow: hidden;
+}
+.xd-list-box-1 {
+  float: left;
+  padding-top: 20px;
+  height: 100px;
+  border-bottom: 1px dashed #ccc;
+  width: 495px;
+}
+.xd-list-box-1 .xd-list-p {
+  margin-top: 10px;
+  line-height: 30px;
+  font-size: 12px;
+  color: #666666;
+}
+.xd-list-box-1 .xd-list-p span {
+  color: #999999;
+  float: right;
+}
+.xd-list-box-1 .xd-list-p a {
+  font-size: 16px;
+}
+.xd-list-box-1 .xd-list-p a:hover {
+  color: #d64442;
+  text-decoration: underline;
+}
+.xd-list-box-1 .xd-list-p1 {
+  line-height: 20px;
+  font-size: 12px;
+  color: #666666;
+}
+.xd-list-box-2 {
+  float: right;
+}
+.xd-bottom {
+  margin-top: 50px;
+  width: 100%;
+  background: #f6f6f6;
+}
+.xd-bottom .xd-bottom-a {
+  width: 1080px;
+  margin: 0 auto;
+  padding-top: 30px;
+  height: 90px;
+}
+.xd-bottom .xd-bottom-a ul {
+  overflow: hidden;
+}
+.xd-bottom .xd-bottom-a ul li {
+  font-size: 12px;
+  color: #666666;
+  float: left;
+}
+.xd-bottom .xd-bottom-a ul li a {
+  font-size: 12px;
+  color: #666666;
+  width: 65px;
+  text-align: center;
+}
+.xd-bottom .xd-bottom-a p {
+  font-size: 12px;
+  color: #666666;
+  display: inline-block;
+  margin-left: 7px;
+  margin-top: 15px;
+}
+.xd-bottom .xd-bottom-a p span {
+  font-weight: bold;
+  color: #000;
+}
+.xd-bottom .xd-bottom-a img {
+  float: right;
+  position: relative;
+  top: -22px;
+}
+.xd-logo-a-1:hover {
+  text-decoration: underline;
+}
+.xd-bottom .xd-bottom-a ul li a:hover {
+  color: #d64442;
+  text-decoration: underline;
+}
+.xd-logo-a:hover {
+  opacity: 0.7;
+}
+.xd-img {
+  width: 100%;
+  height: 300px;
+  overflow: hidden;
+}
+.xd-list-product {
+  width: 100%;
+}
+.xd-list-product .xd-list-product-a {
+  position: relative;
+  width: 1080px;
+  margin: 0 auto;
+}
+.xd-list-product .xd-list-product-a .xd-product-div {
+  width: 230px;
+  position: absolute;
+  top: -55px;
+}
+.xd-list-product .xd-list-product-a .xd-product-div .xd-ul-div {
+  padding: 22px;
+  width: 186px;
+  height: 75px;
+  background: #d8433d;
+  color: #fff;
+  font-size: 15px;
+}
+.xd-list-product .xd-list-product-a .xd-product-div .xd-ul-div span {
+  display: block;
+  margin-bottom: 14px;
+  font-size: 23px;
+}
+.xd-list-product .xd-list-product-a .xd-product-div ul {
+  margin-top: 10px;
+}
+.xd-list-product .xd-list-product-a .xd-product-div ul li {
+  margin-bottom: 2px;
+  width: 210px;
+  height: 40px;
+  line-height: 40px;
+}
+.xd-list-product .xd-list-product-a .xd-product-div ul li a {
+  padding-left: 20px;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  background: #f6f6f6;
+  color: #666666;
+  font-size: 14px;
+}
+.xd-list-product .xd-list-product-a .xd-product-div ul li a:hover,
+.xd-list-product .xd-list-product-a .xd-product-div ul li .xd-hover {
+  background: url(../images/xd-a-3.png) no-repeat;
+  background-position: 95% 50%;
+  background-color: #d8433d;
+  color: #fff;
+}
+.xd-list-product .xd-list-product-a .xd-product-content {
+  width: 820px;
+  float: right;
+}
+.xd-list-product .xd-list-product-a .xd-product-content h3 {
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  font-weight: 100;
+}
+.xd-list-product .xd-list-product-a .xd-product-content h3 .xd-product-content-span {
+  float: left;
+  height: 49px;
+  line-height: 49px;
+  border-bottom: 2px solid #d8433d;
+}
+.xd-list-product .xd-list-product-a .xd-product-content h3 p {
+  float: right;
+  color: #999999;
+  font-size: 12px;
+}
+.xd-list-product .xd-list-product-a .xd-product-content h3 p a {
+  color: #999999;
+  font-size: 12px;
+}
+.xd-list-product .xd-list-product-a .xd-product-content h3 p a:hover {
+  text-decoration: underline;
+  color: #d8433d;
+}
+.xd-list-product .xd-list-product-a .xd-product-content .xd-product-content-p span {
+  height: 80px;
+  line-height: 80px;
+  font-size: 16px;
+  color: #666666;
+}
+.xd-list-product .xd-list-product-a .xd-product-content .xd-product-content-p p {
+  line-height: 22px;
+  font-size: 12px;
+  color: #666666;
+}
+.xd-list-product .xd-list-product-a .xd-product-content .xd-product-content-p img {
+  display: block;
+  margin-top: 30px;
+}
+.xd-position {
+  width: 100%;
+  border-bottom: 1px solid #CCCCCC;
+}
+.xd-position p {
+  height: 50px;
+  line-height: 50px;
+  display: block;
+  width: 1080px;
+  margin: 0 auto;
+  color: #999999;
+  font-size: 12px;
+}
+.xd-position p a {
+  color: #999999;
+  font-size: 12px;
+}
+.xd-position-div {
+  width: 100%;
+}
+.xd-position-div div {
+  width: 1080px;
+  margin: 0 auto;
+}
+.xd-position-div div ul {
+  padding: 25px 0;
+  border-bottom: 1px dotted #ccc;
+}
+.xd-position-div div ul li {
+  position: relative;
+  height: 35px;
+  line-height: 35px;
+  padding-left: 15px;
+}
+.xd-position-div div ul li em {
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 0;
+  width: 5px;
+  height: 5px;
+  background: #999999;
+  border-radius: 50%;
+}
+.xd-position-div div ul li a {
+  font-size: 14px;
+  color: #333333;
+}
+.xd-position-div div ul li a:hover {
+  color: #D8433D;
+  text-decoration: underline;
+}
+.xd-position-div div ul li a:hover em {
+  background: #D8433D;
+}
+.xd-position-div div ul li span {
+  float: right;
+  color: #999999;
+  font-size: 12px;
+}
+.xd-paging {
+  overflow: hidden;
+  width: 320px;
+  margin: 30px auto 0;
+}
+.xd-paging a {
+  margin: 0 3px;
+  display: block;
+  float: left;
+  font-size: 14px;
+  color: #666666;
+  width: 28px;
+  height: 28px;
+  text-align: center;
+  line-height: 28px;
+  border: 1px solid #dddddd;
+}
+.xd-paging .xd-paging-hover,
+.xd-paging a:hover {
+  border: 1px solid #d8433d;
+  background: #D8433D;
+  color: #fff;
+}
+.xd-paging .flip {
+  width: 64px;
+}
+.xd-position-div .xd-piaoliang h1,
+.xd-product-content .xd-piaoliang h1 {
+  text-align: center;
+  height: 49px;
+  padding: 26px 0 20px;
+  font-size: 16px;
+  color: #333333;
+  border-bottom: 1px dotted #ccc;
+  font-weight: 100;
+}
+.xd-position-div .xd-piaoliang h1 span,
+.xd-product-content .xd-piaoliang h1 span {
+  display: block;
+  font-size: 12px;
+  color: #999999;
+  margin-top: 12px;
+  font-weight: 100;
+}
+.xd-position-div .xd-piaoliang .xd-details p,
+.xd-product-content .xd-piaoliang .xd-details p {
+  line-height: 22px;
+  font-size: 12px;
+  color: #666666;
+}
+.xd-position-div .xd-piaoliang .xd-zuile,
+.xd-product-content .xd-piaoliang .xd-zuile {
+  margin-top: 35px;
+  height: 50px;
+  line-height: 50px;
+  padding: 0 20px;
+  background: #f6f6f6;
+}
+.xd-position-div .xd-piaoliang .xd-zuile span,
+.xd-product-content .xd-piaoliang .xd-zuile span {
+  float: right;
+  font-size: 12px;
+  color: #666666;
+}
+.xd-position-div .xd-piaoliang .xd-zuile span a,
+.xd-product-content .xd-piaoliang .xd-zuile span a {
+  font-size: 12px;
+  color: #666666;
+}
+.xd-position-div .xd-piaoliang .xd-zuile span a:hover,
+.xd-product-content .xd-piaoliang .xd-zuile span a:hover {
+  color: #d64442;
+  text-decoration: underline;
+}
+.xd-position-div .xd-piaoliang .xd-zuile .xd-zuile-left,
+.xd-product-content .xd-piaoliang .xd-zuile .xd-zuile-left {
+  float: left;
+}
+.xd-resources ul li {
+  overflow: hidden;
+  padding: 30px 0 40px;
+  border-bottom: 1px dotted #CCCCCC;
+}
+.xd-resources ul li a {
+  font-size: 16px;
+}
+.xd-resources ul li span {
+  float: right;
+  color: #999999;
+  font-size: 12px;
+}
+.xd-resources ul li p {
+  margin-top: 10px;
+  height: 22px;
+  line-height: 22px;
+  color: #666666;
+  font-size: 12px;
+}
+.xd-resources ul li .xd-resources-a {
+  position: relative;
+  top: 20px;
+  display: block;
+  text-align: right;
+  font-size: 12px;
+  color: #D8433D;
+}
+.xd-resources ul li:hover a {
+  color: #D8433D;
+  text-decoration: underline;
+}
+.float {
+  clear: both;
+}
+/*# sourceMappingURL=style.css.map */
